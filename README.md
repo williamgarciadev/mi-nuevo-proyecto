@@ -14,10 +14,10 @@ Bienvenido a **Mi Nuevo Proyecto**. Aquí encontrarás información sobre su des
 
 - 🛠 **Lenguajes**: Java, C#, SQL, Python
 - 📊 **Bases de Datos**: SQL Server, PostgreSQL, MySQL
-- ⚙ **Frameworks**: Spring, GeneXus, Hibernate, Express.js
+- ⚙ **Frameworks**: Spring, GeneXus, Hibernate
 - 🌐 **Desarrollo Web**: React, JavaScript, HTML, CSS
-- 📡 **APIs**: REST, GraphQL
-- 📈 **Herramientas**: Git, Docker, AWS
+- 📡 **APIs**: REST
+- 📈 **Herramientas**: Git, Docker
 
 ## 📝 Contacto
 
