@@ -21,7 +21,7 @@ Bienvenido a **Mi Nuevo Proyecto**. Aquí encontrarás información sobre su des
 
 ## 📝 Contacto
 
-- 📧 Email: [tuemail@example.com](mailto:wgarciamunoz@gamil.com)
-- 🌍 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/geovannygarcia)
-- 🔗 GitHub: [github.com/tuusuario](https://github.com/williamgarciadev)
+- 📧 Email: [wgarciamunoz@gamil.com](mailto:wgarciamunoz@gamil.com)
+- 🌍 LinkedIn: [linkedin.com/in/geovannygarcia](https://linkedin.com/in/geovannygarcia)
+- 🔗 GitHub: [github.com/williamgarciadev](https://github.com/williamgarciadev)
 
