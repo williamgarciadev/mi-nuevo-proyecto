@@ -26,6 +26,27 @@ git clone git@github.com:usuario/mi-proyecto.git
 cd mi-proyecto
 ```
 
+Si ya tienes un proyecto sin Git y quieres llevarlo a un repositorio en GitHub:
+```bash
+# Entra en la carpeta de tu proyecto
+cd mi-proyecto
+
+# Inicializa Git en el proyecto
+git init
+
+# Agrega todos los archivos al repositorio
+git add .
+
+# Realiza el primer commit
+git commit -m "Initial commit"
+
+# Conecta con el repositorio remoto
+git remote add origin git@github.com:usuario/mi-proyecto.git
+
+# Sube los archivos al repositorio remoto
+git push -u origin main
+```
+
 Si Git creó la rama por defecto como `master`, renómbrala a `main`:
 ```bash
 git branch -M main
@@ -189,3 +210,4 @@ git push origin --delete nueva-funcionalidad
 ✔ Para trabajar en **correcciones de errores**.
 ✔ Para realizar **pruebas de código** sin afectar la versión estable.
 ✔ Para permitir que **varios desarrolladores trabajen en paralelo**.
+
